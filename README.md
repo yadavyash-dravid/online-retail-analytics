@@ -1,2 +1,3 @@
 # online-retail-analytics
 End-to-end retail analytics project using real-world transaction data, covering data acquisition, data quality, cleaning, SQL, Python, statistical analysis, and business insights.
+We used Online Retail II from the UCI Machine Learning Repository. It contains 1,067,371 real transaction records from a UK-based, registered non-store online retailer covering December 2009–December 2011. The company primarily sells giftware, and many customers are wholesalers. It also contains missing values and transaction cancellations, so we won't be working with a perfectly clean dataset.
